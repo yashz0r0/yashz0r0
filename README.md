@@ -74,17 +74,28 @@
 
 ---
 
-## GitHub Analytics
+## Analytics & Achievements
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td align="center" valign="middle">
+    <!-- Left Column: GitHub Streak -->
+    <td align="center" valign="middle" width="50%">
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=yashz0r0&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" height="195" />
       </a>
-    
+    </td>
+    <!-- Right Column: Reliable LeetCode Badges -->
+    <td align="center" valign="middle" width="50%">
+      <a href="https://leetcode.com/innocent_0" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Contest_Rating-1800%2B-00B4D8?style=flat-square" alt="LeetCode Rating" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Problems_Solved-290%2B-4CAF50?style=flat-square" alt="Problems Solved" />
+    </td>
   </tr>
 </table>
 
